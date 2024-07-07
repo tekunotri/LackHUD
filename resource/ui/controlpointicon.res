@@ -7,10 +7,10 @@
 		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"1"
-		"wide"		"0" //26
-		"tall"		"0" //26
-		"visible"	"0"
-		"enabled"	"0"
+		"wide"		"26"
+		"tall"		"26"
+		"visible"	"1"
+		"enabled"	"1"
 	}
 	
 	"Countdown"
@@ -20,10 +20,10 @@
 		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"4"
-		"wide"		"0" //26
-		"tall"		"0" //26
-		"visible"	"0"
-		"enabled"	"0"
+		"wide"		"26"
+		"tall"		"26"
+		"visible"	"1"
+		"enabled"	"1"
 	}	
 
 	"CapPlayerImage"
@@ -33,10 +33,10 @@
 		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"3"
-		"wide"		"0" //9
-		"tall"		"0" //16
+		"wide"		"9"
+		"tall"		"16"
 		"visible"	"0"
-		"enabled"	"0"
+		"enabled"	"1"
 		"image"		"capture_icon"
 		"scaleImage"	"1"
 	}
@@ -46,15 +46,15 @@
 		"ControlName"		"Label"
 		"fieldName"		"CapNumPlayers"
 		"font"			"surfaceNumbers18"
-		"xpos"			"2"
+		"xpos"			"5"
 		"ypos"			"-5"
 		"zpos"			"4"
-		"wide"			"0" //23
-		"tall"			"0" //36
+		"wide"			"23"
+		"tall"			"36"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labelText"		"#ControlPointIconCappers"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -69,10 +69,10 @@
 		"xpos"		"17"
 		"ypos"		"0"
 		"zpos"		"4"
-		"wide"		"0" //8
-		"tall"		"0" //8
+		"wide"		"8"
+		"tall"		"8"
 		"visible"	"0"
-		"enabled"	"0"
+		"enabled"	"1"
 		"image"		"capture_icon"
 		"scaleImage"	"1"
 	}

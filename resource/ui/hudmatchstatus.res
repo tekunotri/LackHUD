@@ -268,7 +268,7 @@
 		"zpos"				"1"
 		"wide"				"200"
 		"tall"				"480"
-		"visible"			"0"
+		"visible"			"1"
 		"enabled"			"1"
 		"delta_item_x"			"32"
 		"delta_item_start_y"	"12"

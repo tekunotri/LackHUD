@@ -41,16 +41,16 @@
 	HudKothTimeStatus
 	{
 		"fieldName" "HudKothTimeStatus"
-		"visible" "0"
-		"enabled" "0"
+		"visible" "1"
+		"enabled" "1"
 		"xpos"	"c-100"
 		"ypos"	"0"
-		"wide"	"0" //200
-		"tall"	"0" //60
-
-		"blue_active_xpos"			"15"
-
-		"red_active_xpos"			"115"
+		"wide"	"200"
+		"tall"	"160"
+		
+		"blue_active_xpos" "59"
+	
+		"red_active_xpos" "103"
 	}
 
 	HudItemEffectMeter
@@ -729,10 +729,10 @@
 		"fieldName"				"HudControlPointIcons"
 		"xpos"					"0"
 		"ypos"					"410"
-		"wide"					"0" //f0
-		"tall"					"0" //200
-		"visible"				"0"
-		"enabled"				"0"
+		"wide"					"f0"
+		"tall"					"200"
+		"visible"				"1"
+		"enabled"				"1"
 		"separator_width"		"5"	// distance between the icons (including their backgrounds)
 		"separator_height"		"5"
 		"height_offset"			"0"	// distance from the bottom of the panel

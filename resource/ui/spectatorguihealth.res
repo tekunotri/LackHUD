@@ -8,10 +8,10 @@
 		"ypos"			"6"
 		"zpos"			"4"
 		"wide"			"0"
-		"tall"			"0" //19
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"0"	
+		"tall"			"19"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
 	}		
 	"PlayerStatusHealthImageBG"
 	{
@@ -21,11 +21,11 @@
 		"ypos"			"5"
 		"zpos"			"3"
 		"wide"			"0"
-		"tall"			"0" //21
-		"visible"		"0"
-		"enabled"		"0"
+		"tall"			"21"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/health_bg"
-		"scaleImage"	"0"	
+		"scaleImage"	"1"	
 	}	
 	"BuildingStatusHealthImageBG"
 	{
@@ -35,11 +35,11 @@
 		"ypos"			"2"
 		"zpos"			"2"
 		"wide"			"0"
-		"tall"			"0" //28
+		"tall"			"28"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"image"			"../hud/health_equip_bg"
-		"scaleImage"	"0"	
+		"scaleImage"	"1"	
 	}	
 	"PlayerStatusHealthBonusImage"
 	{
@@ -48,27 +48,27 @@
 		"xpos"			"6"
 		"ypos"			"5"
 		"zpos"			"3"
-		"wide"			"0" //21
-		"tall"			"0" //21
+		"wide"			"21"
+		"tall"			"21"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
-		"scaleImage"	"0"	
+		"scaleImage"	"1"	
 	}
 	"PlayerStatusHealthValueTargetID"
 	{
 		"ControlName"	"Label"
 		"fieldName"		"PlayerStatusHealthValueTargetID"
 		"xpos"			"-21"
-		"ypos"			"26"
+		"ypos"			"6"
 		"zpos"			"7"
-		"wide"			"0" //75
-		"tall"			"0" //18
-		"visible"		"0"
-		"enabled"		"0"
+		"wide"			"75"
+		"tall"			"18"
+		"visible"		"1"
+		"enabled"		"1"
 		"labeltext"		"%Health%"
 		"textAlignment"		"center"
-		"font"			"surfaceHPAmmo28"
+		"font"			"surface15"
 		"fgcolor_override" "255 255 255 255"
 	}
 	"PlayerStatusHealthValueTargetIDshadow"
@@ -78,13 +78,13 @@
 		"xpos"			"-21"
 		"ypos"			"6"
 		"zpos"			"7"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"wide"			"76"
+		"tall"			"19"
+		"visible"		"1"
+		"enabled"		"1"
 		"labeltext"		"%Health%"
 		"textAlignment"		"center"
 		"font"			"surface15"
-		"fgcolor_override" "0 0 0 0"
+		"fgcolor_override" "0 0 0 255"
 	}
 }

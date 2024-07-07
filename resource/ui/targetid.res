@@ -12,7 +12,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"		"1"
 		"teambg_1"		"../hud/color_panel_brown"
@@ -36,8 +36,8 @@
 		"tall"	 		"0" //30
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_blue_bg"
 		
 		"src_corner_height"		"3"				// pixels inside the image
@@ -57,8 +57,8 @@
 		"tall"	 		"0" //30
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_red_bg"
 		
 		"src_corner_height"		"3"				// pixels inside the image
@@ -78,8 +78,8 @@
 		"tall"		"0" //11
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fillcolor"		"0 0 0 75"
 		"PaintBackgroundType" "0"
 	}
@@ -130,10 +130,10 @@
 		"fieldName"		"SpectatorGUIHealth"
 		"xpos"			"3"
 		"ypos"			"3"
-		"wide"			"0" //54
-		"tall"			"0" //132
-		"visible"		"0"
-		"enabled"		"0"	
+		"wide"			"54" //54
+		"tall"			"132" //132
+		"visible"		"1"
+		"enabled"		"1"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
 		"TFFont"		"surfaceHPAmmo28"
